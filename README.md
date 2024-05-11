@@ -1,17 +1,17 @@
 # Power Game
 Olá este projeto foi criado como resposta ao desafio de projeto proposto pelo professor Felipe do Bootcamp Desenvolvendo jogos na GODOT! <br>O que foi ótimo para aprofundamento da base da linguagem de programação JavaScript! 
 
-Nele você encontrará um arquivo index.js que poderá ser executado no terminal <b>(Necessário Node JS instalado)</b>
+Nele você encontrará um arquivo index.js que poderá ser executado no terminal atravéz do comando node index.js <b>(Necessário Node JS instalado)</b>
 
 
 ### Neste projeto aprendí e exercitei:
-- criação de variáveis e funções
-- operadores aritméticos e booleanos
+- Criação de variáveis e funções
+- Operadores aritméticos e booleanos
 - Estruturas condicionais e laços de repetição
 - Operações ramdômicas
-- instalação de npm
-- importação e exportação de módulos de funções e variáveis
-- interação com o usuário pelo terminal
+- Instalação de npm
+- Importação e exportação de módulos de funções e variáveis
+- Interação com o usuário pelo terminal
 
 ### Objetivo
 Você é um aventureiro buscando entrar em uma guilda da região para conseguir mais missões e com isso mais dinheiro!
