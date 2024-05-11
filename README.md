@@ -1,5 +1,5 @@
 # Power Game
-Olá este projeto foi criado como resposta ao desafio de projeto proposto pelo professor Felipe do Bootcamp Desenvolvendo jogos na GODOT! <br>O que foi ótimo para aprofundamento da base da linguagem de programação JavaScript! 
+Olá este projeto foi criado como resposta ao desafio de projeto proposto pelo professor Felipe Aguiar no Bootcamp Santander 2024 - Criando Jogos com Godot <br>O que foi ótimo para aprofundamento da base da linguagem de programação JavaScript! 
 
 Nele você encontrará um arquivo index.js que poderá ser executado no terminal atravéz do comando node index.js <b>(Necessário Node JS instalado)</b>
 
